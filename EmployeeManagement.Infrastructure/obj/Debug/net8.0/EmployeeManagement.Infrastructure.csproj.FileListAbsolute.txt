@@ -1,0 +1,17 @@
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.deps.json
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.runtimeconfig.json
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\Employee.66F3489C.Up2Date
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\refint\EmployeeManagement.Infrastructure.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\EmployeeManagement.Infrastructure.genruntimeconfig.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Infrastructure\obj\Debug\net8.0\ref\EmployeeManagement.Infrastructure.dll

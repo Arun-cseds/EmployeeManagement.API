@@ -1,0 +1,15 @@
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.deps.json
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Application.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\Employee.16DA35CB.Up2Date
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\refint\EmployeeManagement.Application.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\EmployeeManagement.Application.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Application\obj\Debug\net8.0\ref\EmployeeManagement.Application.dll

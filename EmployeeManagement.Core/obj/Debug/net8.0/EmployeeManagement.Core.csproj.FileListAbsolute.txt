@@ -1,0 +1,11 @@
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.deps.json
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\bin\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfoInputs.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.AssemblyInfo.cs
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\refint\EmployeeManagement.Core.dll
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\EmployeeManagement.Core.pdb
+C:\Users\ACER\Desktop\LogimonkTraining\Emp\EmployeeManagement.API\EmployeeManagement.Core\obj\Debug\net8.0\ref\EmployeeManagement.Core.dll
